@@ -1,0 +1,115 @@
+query,raw_answer,parsed_answer,model,ground_truth,mean,mse,mlae,time,forced_repetitions
+q1,44,44.0,gpt4o,10,44.0,1156.0,11.73137207030894,29162.190437316895,4
+q1,"user
+
+
+Look at the image. It shows two lines meeting at an angle.
+Find the angle in degrees and provide the output formatted as only the number.
+I expect the answer to be only the number, nothing else. No need to explain step-by-step.
+assistant
+
+The angle between the two lines is 60 degrees.",60.0,LLaMA,10,60.0,2500.0,12.287748446474637,21650.283575057983,0
+q1,"user
+
+
+Look at the image. It shows two lines meeting at an angle.
+Find the angle in degrees and provide the output formatted as only the number.
+I expect the answer to be only the number, nothing else. No need to explain step-by-step.
+assistant
+
+The angle in the image is 45 degrees.",45.0,CustomLLaMA,10,45.0,1225.0,11.773190730622515,6415.693759918213,0
+q1,"135 
+",135.0,GeminiProVision,10,135.0,15625.0,13.609654901315086,5870.520830154419,0
+q1,90,90.0,Gemini1_5Flash,10,90.0,6400.0,12.965806826595992,5321.79856300354,0
+q2,30,30.0,gpt4o,10,30.0,400.0,10.965874450284495,5602.97703742981,0
+q2,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. No step-by-step explanation.
+Nothing else.
+assistant
+
+The angle is 45 degrees.",45.0,LLaMA,10,45.0,1225.0,11.773190730622515,5904.898643493652,0
+q2,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. No step-by-step explanation.
+Nothing else.
+assistant
+
+The angle measures 45 degrees.",45.0,CustomLLaMA,10,45.0,1225.0,11.773190730622515,5754.7852993011475,0
+q2,"45 
+",45.0,GeminiProVision,10,45.0,1225.0,11.773190730622515,5636.444330215454,0
+q2,"90
+",90.0,Gemini1_5Flash,10,90.0,6400.0,12.965806826595992,5341.591119766235,0
+q3,45,45.0,gpt4o,10,45.0,1225.0,11.773190730622515,6062.12306022644,0
+q3,"user
+
+
+In this image, two lines meet at an angle.
+Provide the angle in degrees as an exact number. No step-by-step explanation.
+Nothing else.
+assistant
+
+The angle in the image is 45 degrees.",45.0,LLaMA,10,45.0,1225.0,11.773190730622515,5976.974964141846,0
+q3,"user
+
+
+In this image, two lines meet at an angle.
+Provide the angle in degrees as an exact number. No step-by-step explanation.
+Nothing else.
+assistant
+
+The angle is 45 degrees.",45.0,CustomLLaMA,10,45.0,1225.0,11.773190730622515,5851.401090621948,0
+q3,"135° 
+",135.0,GeminiProVision,10,135.0,15625.0,13.609654901315086,5690.17219543457,0
+q3,"90
+",90.0,Gemini1_5Flash,10,90.0,6400.0,12.965806826595992,5284.150123596191,0
+q4,45,45.0,gpt4o,10,45.0,1225.0,11.773190730622515,5905.143260955811,0
+q4,"user
+
+
+The image shows two intersecting lines creating an angle.
+Find the angle and provide only the number in degrees. No step-by-step explanation.
+Nothing else.
+assistant
+
+45",45.0,LLaMA,10,45.0,1225.0,11.773190730622515,5709.934234619141,0
+q4,"user
+
+
+The image shows two intersecting lines creating an angle.
+Find the angle and provide only the number in degrees. No step-by-step explanation.
+Nothing else.
+assistant
+
+180",180.0,CustomLLaMA,10,180.0,28900.0,14.053257733925198,5370.02968788147,0
+q4,"135 
+",135.0,GeminiProVision,10,135.0,15625.0,13.609654901315086,5719.508647918701,0
+q4,"90
+",90.0,Gemini1_5Flash,10,90.0,6400.0,12.965806826595992,5337.52965927124,0
+q5,45 degrees.,45.0,gpt4o,10,45.0,1225.0,11.773190730622515,30354.564905166626,4
+q5,"user
+
+
+The drawing depicts two lines forming an angle.
+Provide the exact measurement of the angle in degrees.
+Nothing else. No step-by-step explanation.
+assistant
+
+The angle measures 45 degrees.",45.0,LLaMA,10,45.0,1225.0,11.773190730622515,5801.340579986572,0
+q5,"user
+
+
+The drawing depicts two lines forming an angle.
+Provide the exact measurement of the angle in degrees.
+Nothing else. No step-by-step explanation.
+assistant
+
+The angle measures 60 degrees.",60.0,CustomLLaMA,10,60.0,2500.0,12.287748446474637,5691.233396530151,0
+q5,"135° 
+",135.0,GeminiProVision,10,135.0,15625.0,13.609654901315086,5631.2901973724365,0
+q5,"90° 
+",90.0,Gemini1_5Flash,10,90.0,6400.0,12.965806826595992,5292.170286178589,0

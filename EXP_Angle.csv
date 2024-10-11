@@ -1,0 +1,1291 @@
+,Model,Run,Raw Answers,Parsed Answers,Label,Mean,MSE,MLAE,Times,Forced Repetitions,gt
+0,gpt4o,run_0,90,[90.0],83,90.0,49.0,9.451468712947358,10569.677114486694,0,67
+1,gpt4o,run_0,45,[45.0],83,45.0,1296.0,11.813831283925186,5880.726337432861,0,67
+2,gpt4o,run_0,135,[135.0],83,135.0,2025.0,12.135749360410061,6660.534858703613,0,67
+3,gpt4o,run_0,45,[45.0],83,45.0,0.0,-3.0,8190.005779266357,0,67
+4,gpt4o,run_0,45,[45.0],83,45.0,36.0,9.229119220658594,6700.856924057007,0,67
+5,gpt4o,run_0,45,[45.0],81,45.0,400.0,10.965874450284495,6390.800714492798,0,67
+6,gpt4o,run_0,45,[45.0],81,45.0,361.0,10.891878614243698,5950.758934020996,0,67
+7,gpt4o,run_0,45,[45.0],81,45.0,529.0,11.16749655104036,6625.259160995483,0,67
+8,gpt4o,run_0,90,[90.0],81,90.0,49.0,9.451468712947358,6746.975421905518,0,67
+9,gpt4o,run_0,90,[90.0],81,90.0,576.0,11.228893828905882,6998.932838439941,0,67
+10,gpt4o,run_0,120,[120.0],90,120.0,5476.0,12.853333925046513,6511.384963989258,0,67
+11,gpt4o,run_0,60,[60.0],90,60.0,169.0,10.34443462192399,6853.986978530884,0,67
+12,gpt4o,run_0,45,[45.0],90,45.0,441.0,11.036259484702606,7119.853734970093,0,67
+13,gpt4o,run_0,60,[60.0],90,60.0,4.0,7.644757592516257,7722.146987915039,0,67
+14,gpt4o,run_0,45,[45.0],90,45.0,1156.0,11.73137207030894,6108.366250991821,0,67
+15,gpt4o,run_0,45,[45.0],45,45.0,196.0,10.451339918139356,7017.407417297363,0,67
+16,gpt4o,run_0,60,[60.0],45,60.0,121.0,10.10345174171609,5976.908445358276,0,67
+17,gpt4o,run_0,45,[45.0],45,45.0,64.0,9.644081593265675,6753.633737564087,0,67
+18,gpt4o,run_0,90,[90.0],45,90.0,1156.0,11.73137207030894,8786.097288131714,0,67
+19,gpt4o,run_0,45,[45.0],45,45.0,576.0,11.228893828905882,6691.936731338501,0,67
+20,gpt4o,run_0,45,[45.0],39,45.0,1849.0,12.070162882676588,6758.8701248168945,0,67
+21,gpt4o,run_0,45,[45.0],39,45.0,9.0,8.229419688230417,6656.537294387817,0,67
+22,gpt4o,run_0,45,[45.0],39,45.0,256.0,10.643968895922267,6732.596158981323,0,67
+23,gpt4o,run_0,45,[45.0],39,45.0,25.0,8.966144913345602,6033.047676086426,0,67
+24,gpt4o,run_0,45,[45.0],39,45.0,441.0,11.036259484702606,7907.814741134644,0,67
+25,gpt4o,run_0,45,[45.0],65,45.0,144.0,10.228968963402728,6645.123243331909,0,67
+26,gpt4o,run_0,45,[45.0],65,45.0,289.0,10.731425107642949,7215.1899337768555,0,67
+27,gpt4o,run_0,90,[90.0],65,90.0,2116.0,12.167457348968679,6649.712324142456,0,67
+28,gpt4o,run_0,60,[60.0],65,60.0,1225.0,11.773190730622515,6426.8739223480225,0,67
+29,gpt4o,run_0,60,[60.0],65,60.0,361.0,10.891878614243698,6751.809597015381,0,67
+30,gpt4o,run_0,45,[45.0],26,45.0,289.0,10.731425107642949,6477.092504501343,0,67
+31,gpt4o,run_0,45,[45.0],26,45.0,400.0,10.965874450284495,8306.331157684326,0,67
+32,gpt4o,run_0,45,[45.0],26,45.0,144.0,10.228968963402728,7481.8315505981445,0,67
+33,gpt4o,run_0,90,[90.0],26,90.0,5041.0,12.793628708616401,5800.349235534668,0,67
+34,gpt4o,run_0,60,[60.0],26,60.0,529.0,11.16749655104036,6749.853849411011,0,67
+35,gpt4o,run_0,140,[140.0],22,140.0,7744.0,13.103308301093763,6786.922216415405,0,67
+36,gpt4o,run_0,60,[60.0],22,60.0,16.0,8.644306961545581,7600.753307342529,0,67
+37,gpt4o,run_0,45,[45.0],22,45.0,256.0,10.643968895922267,7734.513521194458,0,67
+38,gpt4o,run_0,45,[45.0],22,45.0,289.0,10.731425107642949,6729.408740997314,0,67
+39,gpt4o,run_0,70,[70.0],22,70.0,676.0,11.344365266587058,7060.05597114563,0,67
+40,gpt4o,run_0,60,[60.0],83,60.0,1681.0,12.00145217832723,6973.037004470825,0,67
+41,gpt4o,run_0,45,[45.0],83,45.0,4.0,7.644757592516257,6671.715497970581,0,67
+42,gpt4o,run_0,48,[48.0],83,48.0,144.0,10.228968963402728,6633.893966674805,0,67
+43,gpt4o,run_0,90,[90.0],83,90.0,2916.0,12.398777087270213,6654.212713241577,0,67
+44,gpt4o,run_0,70,[70.0],83,70.0,2116.0,12.167457348968679,6906.609535217285,0,67
+45,gpt4o,run_0,60,[60.0],66,60.0,324.0,10.813881374894095,5916.926145553589,0,67
+46,gpt4o,run_0,60,[60.0],66,60.0,289.0,10.731425107642949,6793.14661026001,0,67
+47,gpt4o,run_0,45,[45.0],66,45.0,961.0,11.598110672175917,7234.361410140991,0,67
+48,gpt4o,run_0,45,[45.0],66,45.0,49.0,9.451468712947358,6691.3604736328125,0,67
+49,gpt4o,run_0,45,[45.0],66,45.0,1681.0,12.00145217832723,5907.88459777832,0,67
+50,gpt4o,run_0,70,[70.0],46,70.0,676.0,11.344365266587058,6746.329784393311,0,67
+51,gpt4o,run_0,45,[45.0],46,45.0,1936.0,12.10332879348442,6787.88685798645,0,67
+52,gpt4o,run_0,45,[45.0],46,45.0,4.0,7.644757592516257,5898.481607437134,0,67
+53,gpt4o,run_0,45,[45.0],46,45.0,36.0,9.229119220658594,10504.892110824585,0,67
+54,gpt4o,run_0,90,[90.0],46,90.0,529.0,11.16749655104036,6828.804492950439,0,67
+55,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image depicts a line segment with a right angle (90 degrees) and another line segment that forms a 45-degree angle with the horizontal line. The sum of these two angles is 90 + 45 = 135 degrees.
+
+To find the exact angle, we can use the formula:
+
+tan(θ) = opposite / adjacent
+
+where θ is the angle we are looking for, opposite is the length of the side opposite the angle, and adjacent is the length of the side adjacent to the",[135.0],47,135.0,4624.0,12.731345550910744,13638.663053512573,0,67
+56,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 45 degrees.",[45.0],47,45.0,1296.0,11.813831283925186,6202.602863311768,0,67
+57,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 45 degrees.",[45.0],47,45.0,2025.0,12.135749360410061,5783.580541610718,0,67
+58,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],47,45.0,0.0,-3.0,5969.075679779053,0,67
+59,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],47,90.0,2601.0,12.316316891485462,6014.278411865234,0,67
+60,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle between the two lines is $45^\circ$.",[45.0],24,45.0,400.0,10.965874450284495,6136.429786682129,0,67
+61,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows a small angle formed by two lines. The angle is very small, and it is difficult to measure it precisely. However, we can estimate that it is approximately 1 degree.
+
+The final answer is: 
+1","[1.0, 1.0]",24,1.0,625.0,11.287784512498185,8937.44969367981,0,67
+62,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 90 degrees.",[90.0],24,90.0,4624.0,12.731345550910744,6014.8115158081055,0,67
+63,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 35.0 degrees.",[35.0],24,35.0,2304.0,12.228856260190051,5998.696804046631,0,67
+64,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows a line segment that forms an angle with the horizontal line. The length of the line segment is 4 units, and the length of the horizontal line is 5 units.
+
+To find the exact angle in degrees, we can use the tangent function:
+
+tan(θ) = opposite side / adjacent side
+
+where θ is the angle, the opposite side is the length of the line segment (4 units), and the adjacent side is the length of the horizontal line (5 units).
+
+tan",[5.0],24,5.0,3844.0,12.598081586461959,12363.87825012207,0,67
+65,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 90 degrees.",[90.0],62,90.0,1936.0,12.10332879348442,5894.734859466553,0,67
+66,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 45 degrees.",[45.0],62,45.0,4.0,7.644757592516257,6297.610759735107,0,67
+67,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],62,45.0,441.0,11.036259484702606,5981.54878616333,0,67
+68,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows two lines forming an angle, with one line being twice as long as the other. Since the angle is formed by two lines, it is a straight angle.
+
+*Answer*: 180",[180.0],62,180.0,13924.0,13.526514521842069,8515.445947647095,0,67
+69,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],62,45.0,1156.0,11.73137207030894,5893.074512481689,0,67
+70,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows two lines forming an angle. The angle is formed by the intersection of the two lines. The angle is less than 90 degrees. The angle is greater than 45 degrees. The angle is approximately 60 degrees.",[60.0],79,60.0,49.0,9.451468712947358,8580.010890960693,0,67
+71,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],79,45.0,16.0,8.644306961545581,5844.582796096802,0,67
+72,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],79,45.0,64.0,9.644081593265675,5707.184553146362,0,67
+73,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows two lines forming an angle, and the angle is measured as 45 degrees.",[45.0],79,45.0,121.0,10.10345174171609,6947.6683139801025,0,67
+74,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],79,45.0,576.0,11.228893828905882,6034.593343734741,0,67
+75,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],31,45.0,1849.0,12.070162882676588,5738.50679397583,0,67
+76,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],31,45.0,9.0,8.229419688230417,5776.012897491455,0,67
+77,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows two lines forming an angle. The angle is measured by drawing a line from the vertex of the angle to the point where the two lines intersect. The angle is then measured in degrees.
+
+*Answer*: 90",[90.0],31,90.0,3721.0,12.57462309045768,8835.246562957764,0,67
+78,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],31,90.0,2500.0,12.287748446474637,6159.232139587402,0,67
+79,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],31,45.0,441.0,11.036259484702606,5695.904970169067,0,67
+80,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],49,90.0,3249.0,12.476777841641706,6020.18141746521,0,67
+81,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],49,45.0,289.0,10.731425107642949,6164.28017616272,0,67
+82,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 45 degrees.",[45.0],49,45.0,1.0,6.64565843240871,6012.212753295898,0,67
+83,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is $45^\circ$.",[45.0],49,45.0,400.0,10.965874450284495,6387.24946975708,0,67
+84,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 90 degrees.",[90.0],49,90.0,121.0,10.10345174171609,5622.216701507568,0,67
+85,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],53,45.0,289.0,10.731425107642949,12108.93702507019,1,67
+86,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],53,45.0,400.0,10.965874450284495,5834.98215675354,0,67
+87,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is $90^\circ$.",[90.0],53,90.0,3249.0,12.476777841641706,5718.437433242798,0,67
+88,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],53,45.0,676.0,11.344365266587058,6260.475873947144,0,67
+89,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],53,90.0,2809.0,12.371810669763118,5940.506219863892,0,67
+90,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows a line with an angle of approximately 30 degrees.",[30.0],56,30.0,484.0,11.10336977739252,6242.46072769165,0,67
+91,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is $60^\circ$.",[60.0],56,60.0,16.0,8.644306961545581,5709.762334823608,0,67
+92,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],56,45.0,256.0,10.643968895922267,5938.711881637573,0,67
+93,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 90 degrees.",[90.0],56,90.0,784.0,11.451275516423348,6170.944452285767,0,67
+94,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is formed by the two lines. The angle is 45 degrees.",[45.0],56,45.0,1.0,6.64565843240871,6384.387493133545,0,67
+95,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 90 degrees.",[90.0],21,90.0,5041.0,12.793628708616401,5712.40496635437,0,67
+96,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],21,90.0,1849.0,12.070162882676588,5910.280466079712,0,67
+97,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle between the two lines is 45 degrees.",[45.0],21,45.0,81.0,9.813981551614678,6158.997297286987,0,67
+98,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],21,45.0,81.0,9.813981551614678,6577.37135887146,0,67
+99,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 90 degrees.",[90.0],21,90.0,4356.0,12.688277632644148,5736.274719238281,0,67
+100,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 45 degrees.",[45.0],2,45.0,9.0,8.229419688230417,5715.245723724365,0,67
+101,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows two lines forming an angle. The angle is acute, and its measure is 45 degrees.",[45.0],2,45.0,4.0,7.644757592516257,6824.174880981445,0,67
+102,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],2,45.0,961.0,11.598110672175917,5702.70562171936,0,67
+103,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],2,45.0,49.0,9.451468712947358,12224.45797920227,1,67
+104,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],2,45.0,1681.0,12.00145217832723,6080.767631530762,0,67
+105,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],48,90.0,2116.0,12.167457348968679,6233.462333679199,0,67
+106,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],48,45.0,1936.0,12.10332879348442,6076.810121536255,0,67
+107,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows two lines forming an angle. The angle is approximately 45 degrees.",[45.0],48,45.0,4.0,7.644757592516257,6708.764314651489,0,67
+108,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],48,45.0,36.0,9.229119220658594,6049.434661865234,0,67
+109,LLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],48,45.0,484.0,11.10336977739252,5939.455032348633,0,67
+110,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],29,45.0,1444.0,11.891831159511497,5986.097574234009,0,67
+111,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 35 degrees.",[35.0],29,35.0,2116.0,12.167457348968679,6258.684158325195,0,67
+112,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],29,45.0,2025.0,12.135749360410061,6341.152191162109,0,67
+113,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows two lines forming an angle, with one line extending from the left side of the image and the other line extending from the right side. The angle formed by these two lines is approximately 90 degrees.",[90.0],29,90.0,2025.0,12.135749360410061,8212.923049926758,0,67
+114,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is approximately 45 degrees.",[45.0],29,45.0,36.0,9.229119220658594,6083.105087280273,0,67
+115,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],40,45.0,400.0,10.965874450284495,5928.085803985596,0,67
+116,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 90 degrees.",[90.0],40,90.0,4096.0,12.643884367137073,6128.154277801514,0,67
+117,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 90 degrees.",[90.0],40,90.0,4624.0,12.731345550910744,5773.138999938965,0,67
+118,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 90 degrees.",[90.0],40,90.0,49.0,9.451468712947358,6258.148193359375,0,67
+119,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],40,45.0,441.0,11.036259484702606,5922.124624252319,0,67
+120,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 90 degrees.",[90.0],66,90.0,1936.0,12.10332879348442,5783.479690551758,0,67
+121,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 45 degrees.",[45.0],66,45.0,4.0,7.644757592516257,5998.258113861084,0,67
+122,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],66,45.0,441.0,11.036259484702606,5713.559627532959,0,67
+123,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows a simple line drawing of two lines forming an angle. The angle is formed by the intersection of the two lines. To find the exact angle in degrees, we can use the fact that the sum of the angles in a triangle is always 180 degrees.
+
+Since the two lines form an angle, they also form a triangle with a third line that is not shown in the image. Let's call this third line the ""base"" of the triangle. The angle we are interested in is",[180.0],66,180.0,13924.0,13.526514521842069,12756.229400634766,0,67
+124,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 90 degrees.",[90.0],66,90.0,121.0,10.10345174171609,5918.485164642334,0,67
+125,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],33,45.0,196.0,10.451339918139356,5884.113788604736,0,67
+126,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],33,45.0,16.0,8.644306961545581,6272.5701332092285,0,67
+127,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 45 degrees.",[45.0],33,45.0,64.0,9.644081593265675,5870.6724643707275,0,67
+128,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],33,45.0,121.0,10.10345174171609,5829.3211460113525,0,67
+129,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],33,45.0,576.0,11.228893828905882,5973.545074462891,0,67
+130,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],62,45.0,1849.0,12.070162882676588,5931.7872524261475,0,67
+131,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],62,45.0,9.0,8.229419688230417,6141.694068908691,0,67
+132,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],62,90.0,3721.0,12.57462309045768,6062.812328338623,0,67
+133,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],62,90.0,2500.0,12.287748446474637,6268.617153167725,0,67
+134,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],62,90.0,576.0,11.228893828905882,6264.603853225708,0,67
+135,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],44,45.0,144.0,10.228968963402728,5981.573581695557,0,67
+136,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],44,45.0,289.0,10.731425107642949,5676.729679107666,0,67
+137,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image depicts an angle formed by two lines that intersect at a point. The angle is labeled as ""45°"".
+
+*Answer*: 45","[45.0, 45.0]",44,45.0,1.0,6.64565843240871,7617.241382598877,0,67
+138,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],44,90.0,4225.0,12.666251746671813,6395.691871643066,0,67
+139,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],44,45.0,1156.0,11.73137207030894,18942.535400390625,1,67
+140,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 40 degrees.",[40.0],25,40.0,144.0,10.228968963402728,5821.90465927124,0,67
+141,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],25,45.0,400.0,10.965874450284495,6067.548513412476,0,67
+142,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows a right angle, which is 90 degrees.",[90.0],25,90.0,3249.0,12.476777841641706,6244.4164752960205,0,67
+143,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 45 degrees.",[45.0],25,45.0,676.0,11.344365266587058,6106.488943099976,0,67
+144,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],25,45.0,64.0,9.644081593265675,6005.399942398071,0,67
+145,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],79,90.0,1444.0,11.891831159511497,6218.3239459991455,0,67
+146,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],79,45.0,121.0,10.10345174171609,5768.012523651123,0,67
+147,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle between the two lines is approximately 30 degrees.",[30.0],79,30.0,961.0,11.598110672175917,6259.632587432861,0,67
+148,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle between the two lines is 90 degrees.",[90.0],79,90.0,784.0,11.451275516423348,5977.597713470459,0,67
+149,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 45 degrees.",[45.0],79,45.0,1.0,6.64565843240871,5987.621545791626,0,67
+150,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],28,90.0,5041.0,12.793628708616401,6230.323553085327,0,67
+151,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],28,45.0,4.0,7.644757592516257,5952.117681503296,0,67
+152,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],28,90.0,2916.0,12.398777087270213,5961.987495422363,0,67
+153,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 45 degrees.",[45.0],28,45.0,81.0,9.813981551614678,5917.020082473755,0,67
+154,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],28,45.0,441.0,11.036259484702606,5861.706733703613,0,67
+155,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],25,90.0,2304.0,12.228856260190051,6066.550254821777,0,67
+156,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],25,45.0,4.0,7.644757592516257,5681.932687759399,0,67
+157,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],25,45.0,961.0,11.598110672175917,5699.28765296936,0,67
+158,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle between the two lines is 45 degrees.",[45.0],25,45.0,49.0,9.451468712947358,13379.9467086792,1,67
+159,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is 45 degrees.",[45.0],25,45.0,1681.0,12.00145217832723,5654.833793640137,0,67
+160,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 45 degrees.",[45.0],33,45.0,1.0,6.64565843240871,5979.853391647339,0,67
+161,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The image shows two lines forming an angle. The angle is measured as 45 degrees.",[45.0],33,45.0,1936.0,12.10332879348442,6790.510892868042,0,67
+162,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle in the image is 90 degrees.",[90.0],33,90.0,2209.0,12.198483410491098,5858.257293701172,0,67
+163,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle between the two lines is approximately 70 degrees.",[70.0],33,70.0,961.0,11.598110672175917,6404.316186904907,0,67
+164,CustomLLaMA,run_0,"user
+
+
+The image contains two lines forming an angle.
+Provide the exact angle in degrees, formatted as a single number. 
+No step-by-step explanation.
+assistant
+
+The angle is approximately 30 degrees.",[30.0],33,30.0,1369.0,11.853358294277715,6166.667699813843,0,67
+165,GeminiProVision,run_0,"90 
+",[90.0],19,90.0,49.0,9.451468712947358,8721.219301223755,0,67
+166,GeminiProVision,run_0,"90 
+",[90.0],19,90.0,81.0,9.813981551614678,8611.82975769043,0,67
+167,GeminiProVision,run_0,"45 
+",[45.0],19,45.0,2025.0,12.135749360410061,8649.14059638977,0,67
+168,GeminiProVision,run_0,"45 
+",[45.0],19,45.0,0.0,-3.0,8674.281597137451,0,67
+169,GeminiProVision,run_0,"45 
+",[45.0],19,45.0,36.0,9.229119220658594,8593.234539031982,0,67
+170,GeminiProVision,run_0,"90 
+",[90.0],37,90.0,625.0,11.287784512498185,8597.378969192505,0,67
+171,GeminiProVision,run_0,"90 
+",[90.0],37,90.0,4096.0,12.643884367137073,8614.139795303345,0,67
+172,GeminiProVision,run_0,"90 
+",[90.0],37,90.0,4624.0,12.731345550910744,8618.5462474823,0,67
+173,GeminiProVision,run_0,"90 
+",[90.0],37,90.0,49.0,9.451468712947358,8678.97891998291,0,67
+174,GeminiProVision,run_0,"90 
+",[90.0],37,90.0,576.0,11.228893828905882,8604.284524917603,0,67
+175,GeminiProVision,run_0,"90 
+",[90.0],52,90.0,1936.0,12.10332879348442,8605.309247970581,0,67
+176,GeminiProVision,run_0,"90 
+",[90.0],52,90.0,1849.0,12.070162882676588,8563.851356506348,0,67
+177,GeminiProVision,run_0,"45 
+",[45.0],52,45.0,441.0,11.036259484702606,8645.278215408325,0,67
+178,GeminiProVision,run_0,"90 
+",[90.0],52,90.0,784.0,11.451275516423348,8596.223831176758,0,67
+179,GeminiProVision,run_0,"90 
+",[90.0],52,90.0,121.0,10.10345174171609,8595.447778701782,0,67
+180,GeminiProVision,run_0,"90 
+",[90.0],56,90.0,3481.0,12.526529804385683,8602.270603179932,0,67
+181,GeminiProVision,run_0,"90 
+",[90.0],56,90.0,1681.0,12.00145217832723,8646.822452545166,0,67
+182,GeminiProVision,run_0,"90 
+",[90.0],56,90.0,1369.0,11.853358294277715,8556.461811065674,0,67
+183,GeminiProVision,run_0,"90 
+",[90.0],56,90.0,1156.0,11.73137207030894,8562.289953231812,0,67
+184,GeminiProVision,run_0,"90 
+",[90.0],56,90.0,4761.0,12.752406782095886,8550.41790008545,0,67
+185,GeminiProVision,run_0,"90 
+",[90.0],61,90.0,7744.0,13.103308301093763,8591.398239135742,0,67
+186,GeminiProVision,run_0,"45 
+",[45.0],61,45.0,9.0,8.229419688230417,8632.900714874268,0,67
+187,GeminiProVision,run_0,"90 
+",[90.0],61,90.0,3721.0,12.57462309045768,8587.892770767212,0,67
+188,GeminiProVision,run_0,"90 
+",[90.0],61,90.0,2500.0,12.287748446474637,8568.614959716797,0,67
+189,GeminiProVision,run_0,"90 
+",[90.0],61,90.0,576.0,11.228893828905882,8587.905645370483,0,67
+190,GeminiProVision,run_0,"90 
+",[90.0],62,90.0,3249.0,12.476777841641706,8571.394205093384,0,67
+191,GeminiProVision,run_0,"90 
+",[90.0],62,90.0,784.0,11.451275516423348,8801.78451538086,0,67
+192,GeminiProVision,run_0,"90 
+",[90.0],62,90.0,2116.0,12.167457348968679,8556.008338928223,0,67
+193,GeminiProVision,run_0,"45 
+",[45.0],62,45.0,400.0,10.965874450284495,8612.688302993774,0,67
+194,GeminiProVision,run_0,"90 
+",[90.0],62,90.0,121.0,10.10345174171609,8572.859048843384,0,67
+195,GeminiProVision,run_0,"90 
+",[90.0],44,90.0,3844.0,12.598081586461959,8613.463163375854,0,67
+196,GeminiProVision,run_0,"90 
+",[90.0],44,90.0,4225.0,12.666251746671813,8552.06561088562,0,67
+197,GeminiProVision,run_0,"90 
+",[90.0],44,90.0,3249.0,12.476777841641706,8586.336135864258,0,67
+198,GeminiProVision,run_0,"90 
+",[90.0],44,90.0,5041.0,12.793628708616401,8608.1862449646,0,67
+199,GeminiProVision,run_0,"45 
+",[45.0],44,45.0,64.0,9.644081593265675,8608.330249786377,0,67
+200,GeminiProVision,run_0,"90 
+",[90.0],19,90.0,1444.0,11.891831159511497,8564.646482467651,0,67
+201,GeminiProVision,run_0,"90 
+",[90.0],19,90.0,1156.0,11.73137207030894,8585.54720878601,0,67
+202,GeminiProVision,run_0,"90 
+",[90.0],19,90.0,841.0,11.501899368693211,8570.796966552734,0,67
+203,GeminiProVision,run_0,"90 
+",[90.0],19,90.0,784.0,11.451275516423348,8572.254180908203,0,67
+204,GeminiProVision,run_0,"90 
+",[90.0],19,90.0,2116.0,12.167457348968679,8583.302021026611,0,67
+205,GeminiProVision,run_0,"45 
+",[45.0],47,45.0,676.0,11.344365266587058,8629.451751708984,0,67
+206,GeminiProVision,run_0,"90 
+",[90.0],47,90.0,1849.0,12.070162882676588,8566.904067993164,0,67
+207,GeminiProVision,run_0,"90 
+",[90.0],47,90.0,2916.0,12.398777087270213,8622.82657623291,0,67
+208,GeminiProVision,run_0,"90 
+",[90.0],47,90.0,2916.0,12.398777087270213,8554.917573928833,0,67
+209,GeminiProVision,run_0,"90 
+",[90.0],47,90.0,4356.0,12.688277632644148,8578.662395477295,0,67
+210,GeminiProVision,run_0,"45 
+",[45.0],36,45.0,9.0,8.229419688230417,8572.499752044678,0,67
+211,GeminiProVision,run_0,"90 
+",[90.0],36,90.0,2209.0,12.198483410491098,8566.644191741943,0,67
+212,GeminiProVision,run_0,"45 
+",[45.0],36,45.0,961.0,11.598110672175917,8617.116928100586,0,67
+213,GeminiProVision,run_0,"90 
+",[90.0],36,90.0,1444.0,11.891831159511497,8603.947401046753,0,67
+214,GeminiProVision,run_0,"90 
+",[90.0],36,90.0,7396.0,13.070141913729094,8599.090814590454,0,67
+215,GeminiProVision,run_0,"90 
+",[90.0],36,90.0,2116.0,12.167457348968679,8603.386878967285,0,67
+216,GeminiProVision,run_0,"90 
+",[90.0],36,90.0,7921.0,13.119609883169629,8553.2066822052,0,67
+217,GeminiProVision,run_0,"90 
+",[90.0],36,90.0,2209.0,12.198483410491098,8560.215950012207,0,67
+218,GeminiProVision,run_0,"45 
+",[45.0],36,45.0,36.0,9.229119220658594,8627.959728240967,0,67
+219,GeminiProVision,run_0,"90 
+",[90.0],36,90.0,529.0,11.16749655104036,8624.576568603516,0,67
+220,Gemini1_5Flash,run_0,"90
+",[90.0],24,90.0,49.0,9.451468712947358,8294.660329818726,0,67
+221,Gemini1_5Flash,run_0,"90
+",[90.0],24,90.0,81.0,9.813981551614678,8266.014337539673,0,67
+222,Gemini1_5Flash,run_0,"90
+",[90.0],24,90.0,0.0,-3.0,8322.27349281311,0,67
+223,Gemini1_5Flash,run_0,"90
+",[90.0],24,90.0,2025.0,12.135749360410061,8308.286428451538,0,67
+224,Gemini1_5Flash,run_0,"90 
+",[90.0],24,90.0,2601.0,12.316316891485462,8240.552425384521,0,67
+225,Gemini1_5Flash,run_0,"135
+",[135.0],42,135.0,4900.0,12.773164968901117,8281.90279006958,0,67
+226,Gemini1_5Flash,run_0,"90
+",[90.0],42,90.0,4096.0,12.643884367137073,8247.214078903198,0,67
+227,Gemini1_5Flash,run_0,"90
+",[90.0],42,90.0,4624.0,12.731345550910744,8310.039281845093,0,67
+228,Gemini1_5Flash,run_0,"90
+",[90.0],42,90.0,49.0,9.451468712947358,8289.375305175781,0,67
+229,Gemini1_5Flash,run_0,"90
+",[90.0],42,90.0,576.0,11.228893828905882,8267.762184143066,0,67
+230,Gemini1_5Flash,run_0,"90
+",[90.0],43,90.0,1936.0,12.10332879348442,8278.037309646606,0,67
+231,Gemini1_5Flash,run_0,"90
+",[90.0],43,90.0,1849.0,12.070162882676588,8271.147012710571,0,67
+232,Gemini1_5Flash,run_0,"90
+",[90.0],43,90.0,4356.0,12.688277632644148,8303.28345298767,0,67
+233,Gemini1_5Flash,run_0,"90
+",[90.0],43,90.0,784.0,11.451275516423348,8265.354633331299,0,67
+234,Gemini1_5Flash,run_0,"90
+",[90.0],43,90.0,121.0,10.10345174171609,8312.967300415039,0,67
+235,Gemini1_5Flash,run_0,"90
+",[90.0],76,90.0,3481.0,12.526529804385683,8293.802499771118,0,67
+236,Gemini1_5Flash,run_0,"90
+",[90.0],76,90.0,1681.0,12.00145217832723,8291.300058364868,0,67
+237,Gemini1_5Flash,run_0,"90
+",[90.0],76,90.0,1369.0,11.853358294277715,8243.631601333618,0,67
+238,Gemini1_5Flash,run_0,"90
+",[90.0],76,90.0,1156.0,11.73137207030894,8316.324949264526,0,67
+239,Gemini1_5Flash,run_0,"90
+",[90.0],76,90.0,4761.0,12.752406782095886,8261.565446853638,0,67
+240,Gemini1_5Flash,run_0,"90
+",[90.0],52,90.0,7744.0,13.103308301093763,8274.991989135742,0,67
+241,Gemini1_5Flash,run_0,"90
+",[90.0],52,90.0,1764.0,12.036216549266957,8280.259847640991,0,67
+242,Gemini1_5Flash,run_0,"90
+",[90.0],52,90.0,3721.0,12.57462309045768,8229.722499847412,0,67
+243,Gemini1_5Flash,run_0,"180
+",[180.0],52,180.0,19600.0,13.773152087867908,8284.410953521729,0,67
+244,Gemini1_5Flash,run_0,"90
+",[90.0],52,90.0,576.0,11.228893828905882,8298.144340515137,0,67
+245,Gemini1_5Flash,run_0,"90
+",[90.0],4,90.0,3249.0,12.476777841641706,8269.303321838379,0,67
+246,Gemini1_5Flash,run_0,"90
+",[90.0],4,90.0,784.0,11.451275516423348,8405.80415725708,0,67
+247,Gemini1_5Flash,run_0,"90
+",[90.0],4,90.0,2116.0,12.167457348968679,8264.721870422363,0,67
+248,Gemini1_5Flash,run_0,"90
+",[90.0],4,90.0,4225.0,12.666251746671813,8257.398843765259,0,67
+249,Gemini1_5Flash,run_0,"90
+",[90.0],4,90.0,121.0,10.10345174171609,8292.911052703857,0,67
+250,Gemini1_5Flash,run_0,"90
+",[90.0],44,90.0,3844.0,12.598081586461959,8309.873819351196,0,67
+251,Gemini1_5Flash,run_0,"90
+",[90.0],44,90.0,4225.0,12.666251746671813,8232.051372528076,0,67
+252,Gemini1_5Flash,run_0,"90 
+",[90.0],44,90.0,3249.0,12.476777841641706,8332.944869995117,0,67
+253,Gemini1_5Flash,run_0,"90
+",[90.0],44,90.0,5041.0,12.793628708616401,8244.706869125366,0,67
+254,Gemini1_5Flash,run_0,"90
+",[90.0],44,90.0,2809.0,12.371810669763118,8271.371364593506,0,67
+255,Gemini1_5Flash,run_0,"90 
+",[90.0],1,90.0,1444.0,11.891831159511497,8301.384687423706,0,67
+256,Gemini1_5Flash,run_0,"90
+",[90.0],1,90.0,1156.0,11.73137207030894,8264.259815216064,0,67
+257,Gemini1_5Flash,run_0,"90
+",[90.0],1,90.0,841.0,11.501899368693211,8252.36964225769,0,67
+258,Gemini1_5Flash,run_0,"90
+",[90.0],1,90.0,784.0,11.451275516423348,8273.08440208435,0,67
+259,Gemini1_5Flash,run_0,"90
+",[90.0],1,90.0,2116.0,12.167457348968679,8302.959442138672,0,67
+260,Gemini1_5Flash,run_0,"90
+",[90.0],43,90.0,5041.0,12.793628708616401,8291.83316230774,0,67
+261,Gemini1_5Flash,run_0,"90
+",[90.0],43,90.0,1849.0,12.070162882676588,8245.866537094116,0,67
+262,Gemini1_5Flash,run_0,"90
+",[90.0],43,90.0,2916.0,12.398777087270213,8334.770441055298,0,67
+263,Gemini1_5Flash,run_0,"90
+",[90.0],43,90.0,2916.0,12.398777087270213,8239.442348480225,0,67
+264,Gemini1_5Flash,run_0,"90
+",[90.0],43,90.0,4356.0,12.688277632644148,8266.111373901367,0,67
+265,Gemini1_5Flash,run_0,"90
+",[90.0],39,90.0,2304.0,12.228856260190051,8312.879800796509,0,67
+266,Gemini1_5Flash,run_0,"90 
+",[90.0],39,90.0,2209.0,12.198483410491098,8275.338888168335,0,67
+267,Gemini1_5Flash,run_0,"90
+",[90.0],39,90.0,196.0,10.451339918139356,8260.571956634521,0,67
+268,Gemini1_5Flash,run_0,"90
+",[90.0],39,90.0,1444.0,11.891831159511497,8255.820274353027,0,67
+269,Gemini1_5Flash,run_0,"90
+",[90.0],39,90.0,7396.0,13.070141913729094,8246.504068374634,0,67
+270,Gemini1_5Flash,run_0,"90
+",[90.0],67,90.0,2116.0,12.167457348968679,8310.722589492798,0,67
+271,Gemini1_5Flash,run_0,"90
+",[90.0],67,90.0,7921.0,13.119609883169629,8284.003019332886,0,67
+272,Gemini1_5Flash,run_0,"90
+",[90.0],67,90.0,2209.0,12.198483410491098,8278.038501739502,0,67
+273,Gemini1_5Flash,run_0,"90
+",[90.0],67,90.0,2601.0,12.316316891485462,8312.232494354248,0,67
+274,Gemini1_5Flash,run_0,"90
+",[90.0],67,90.0,529.0,11.16749655104036,8553.798913955688,0,67
